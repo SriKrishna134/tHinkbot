@@ -1,6 +1,6 @@
 # tHinkbot
 
-Gemini Clone is a project aimed at replicating the functionality of Gemini, powered by the Google Gemini API, using React and CSS.
+tHinkbot is a project aimed at helping comunity for the advanced ai chat bot.
 
 ## Table of Contents
 
