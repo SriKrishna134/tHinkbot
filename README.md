@@ -44,9 +44,12 @@ This project introduces a React-based web application. It provides a user-friend
    ```bash
    git clone the repo
 2. Install:
+   
    ```bash
    npm install   
 3.run the code:
+
    ```bash
-   npm run dev
+     npm run dev 
+
   
