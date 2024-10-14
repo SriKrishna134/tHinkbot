@@ -1,4 +1,4 @@
-# tHinkbot
+# tHinkbot app
 
 tHinkbot is a project aimed at helping comunity for the advanced ai chat bot.
 
