@@ -47,7 +47,7 @@ This project introduces a React-based web application. It provides a user-friend
    
    ```bash
    npm install   
-3.run the code:
+ 3.Run the code:
 
    ```bash
      npm run dev 
