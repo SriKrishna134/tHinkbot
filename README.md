@@ -7,7 +7,7 @@ tHinkbot is a project aimed at helping comunity for the advanced ai chat bot.
 -To open the app [Click Here](https://t-h-inkbot.vercel.app/)
 
 ## Screen shot of the web app
-Frontend page of the web app
+# Frontend page of the web app
 <img src="https://utfs.io/f/mJvRnIkXEid5MKMLkTS0NRHvAfoKQiFtc7Os63hCJ5lbISa4">
 
 ## Table of Contents
