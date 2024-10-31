@@ -47,7 +47,7 @@ This project introduces a React-based web application. It provides a user-friend
 
    ```bash
    git clone the repo
-2. Install:
+2. Installation:
    
    ```bash
    npm install   
