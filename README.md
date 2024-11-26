@@ -51,7 +51,7 @@ This project introduces a React-based web application. It provides a user-friend
    
    ```bash
    npm install   
- 3.Run the code:(local host)
+ 3.Run the code:([local host](http://localhost:3000)):
 
    ```bash
      npm run dev 
