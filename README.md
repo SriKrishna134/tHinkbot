@@ -35,13 +35,13 @@ This project introduces a React-based web application. It provides a user-friend
 - **React-based Development:** Leverages React's efficient component-based approach for building the application.
 - **CSS Styling:** Employs CSS to style the user interface for visual appeal and usability.
 
-### Potential Enhancements
+### Potential Enhancements:
 
 - **Conversation History:** Keeps a record of past interactions for reference.
 - **Advanced UI Elements:** Introduces additional features like emojis, formatting options, or user avatars.
 - **Enhanced Functionality:** Explores integrating functionalities like image search or language translation.
 
-## Installation
+## Installation:
 
 1. Clone the repository:
 
