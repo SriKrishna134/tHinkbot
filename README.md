@@ -30,7 +30,7 @@ This project introduces a React-based web application. It provides a user-friend
 - **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.
 
 
-### Additional Features
+### Additional Features:
 
 - **React-based Development:** Leverages React's efficient component-based approach for building the application.
 - **CSS Styling:** Employs CSS to style the user interface for visual appeal and usability.
