@@ -10,7 +10,7 @@ tHinkbot is a project aimed at helping comunity for the advanced AI chat bot.
 ### Frontend page of the web app:
 <img src="https://utfs.io/f/mJvRnIkXEid5MKMLkTS0NRHvAfoKQiFtc7Os63hCJ5lbISa4">
 
-## Table of Contents
+## Table of Contents:
 
 - [Introduction](#introduction)
 - [Features](#features)
