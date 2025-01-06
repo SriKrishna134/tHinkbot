@@ -14,7 +14,7 @@
 ## Table of Contents:
 
 - [Introduction](#introduction)
-- [Features](#features)
+  - [Features](#features)
   - [Core Features](#core-features)
   - [Additional Features](#additional-features)
   - [Potential Enhancements](#potential-enhancements)
