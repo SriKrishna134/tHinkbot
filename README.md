@@ -13,7 +13,7 @@
 
 ## Table of Contents:
 
-- [Introduction](#introduction)
+   - [Introduction](#introduction)
   - [Features](#features)
   - [Core Features](#core-features)
   - [Additional Features](#additional-features)
