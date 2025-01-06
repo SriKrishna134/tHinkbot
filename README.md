@@ -23,7 +23,7 @@
 
 This project introduces a React-based web application. It provides a user-friendly interface for interacting with the powerful model, allowing you to ask questions and receive informative responses in a conversational manner.
 
-## Features :
+ ## Features :
 
 ### Core Features:
 
