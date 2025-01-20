@@ -4,7 +4,7 @@
 
 # The app live in action:
 
- -click to open the app [Click Here](https://t-h-inkbot.vercel.app/)
+ - click to open the app [Click Here](https://t-h-inkbot.vercel.app/)
 
 ## Screen shot of the web app:
 //web app //
