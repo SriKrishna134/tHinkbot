@@ -6,7 +6,7 @@
 
  - click to open the app [Click Here](https://t-h-inkbot.vercel.app/)
 
-## Screen shot of the web app:
+## Screen shot of the Web App: 
 
  //web app //
 
