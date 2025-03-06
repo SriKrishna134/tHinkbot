@@ -58,6 +58,7 @@ This project introduces a React-based web application. It is an provides a user-
 
    ```bash
    git clone the repo
+   
 2. Installation: 
    
    ```bash
