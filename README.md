@@ -49,6 +49,7 @@ This project introduces a React-based web application. It is an provides a user-
 - **Conversation History:** Keeps a record of past interactions for reference.
   
 - **Advanced UI Elements:** Introduces additional features like emojis, formatting options, or user avatars.
+  
 - **Enhanced Functionality:**  Explores integrating functionalities like image search or language translation.
 
 
