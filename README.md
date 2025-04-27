@@ -40,6 +40,7 @@ This project introduces a React-based web application. It is an provides a user-
 
 - **Chat Interface:** Provides a dedicated interface for interacting with the Gemini model in a conversational style.
 
+
   
 - **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.
 
