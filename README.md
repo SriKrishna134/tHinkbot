@@ -4,7 +4,7 @@
   - 
     
 
-#  The app live in action:
+#  The app live in action: 
 
  - click to open the app [Click Here](https://t-h-inkbot.vercel.app/)
 
