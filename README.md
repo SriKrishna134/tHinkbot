@@ -44,7 +44,7 @@ This project introduces a React-based web application. It is an provides a user-
 
 
   
-- **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.
+- **Simulated Typing Effect:** Enhances the user experience by mimicking a natural typing effect during responses.                               
 
 
 
