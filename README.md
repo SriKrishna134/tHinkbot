@@ -79,7 +79,7 @@ This project introduces a React-based web application. It is an provides a user-
    
  3.Run the code:([local host](http://localhost:3000)):
 
-   ```bash
+   ```bash.                  
      npm run dev 
 
   
