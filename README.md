@@ -32,7 +32,7 @@
   - [Potential Enhancements](#potential-enhancements)
     
 
-## Introduction :
+## Introduction :            
 
 This project introduces a React-based web application. It is an provides a user-friendly interface for interacting with the powerful model, allowing you to ask questions and receive informative responses in a conversational manner.
 
