@@ -2,7 +2,7 @@
 
   -  tHinkbot is a project aimed at helping comunity for the advanced AI chat bot.                         
   -                                       
-                                                                                   
+                                                                                                                                                      
          
 #  The app live in action: 
 
